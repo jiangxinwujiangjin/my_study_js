@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # my-tiptap-project
 
 ## Project setup
@@ -22,3 +23,6 @@ npm run test:unit
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# my_study_js
+>>>>>>> 0d1a07a6651da859abc48bfb4a489f3b9db206e7
